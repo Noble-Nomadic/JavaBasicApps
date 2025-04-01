@@ -1,2 +1,2 @@
 # JavaSwingApps
-Some simple test apps using Java and Swing
+Some simple test apps using Java
